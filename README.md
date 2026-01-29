@@ -36,7 +36,7 @@ text## Tools Used
 ## How to Open & Build
 1. Install **CodeVisionAVR**
 2. Open the master project:  
-   `firmware/master/Master code.cproj` (or similar name)
+   `firmware/master/Master code.cproj` 
 3. Open the slave project:  
    `firmware/slave/Slave code.cproj`
 4. Build each project separately → it will generate `.hex` files
