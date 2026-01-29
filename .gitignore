@@ -1,0 +1,35 @@
+# =====================================
+# Build outputs & temporary files (AVR / CodeVisionAVR)
+# =====================================
+*.o
+*.d
+*.elf
+*.hex
+*.eep
+*.eeprom
+*.map
+*.lst
+*.src
+*.srec
+Debug/
+Release/
+build/
+obj/
+
+# CodeVisionAVR / Atmel Studio temporary & user-specific files
+*.atsln
+*.atsuo
+*.componentinfo
+*.bak
+*.backup
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+*.log
+
+# Optional: if you don't want to share logs
+*TcfTransactionLog.csv
+
+# If you ever use VS Code or other editors
+.vscode/
